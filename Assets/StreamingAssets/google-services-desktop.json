@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1056668185805",
+    "firebase_url": "https://nonstudio-astronames-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nonstudio-astronames",
+    "storage_bucket": "nonstudio-astronames.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056668185805:android:ce420f91674e926bf6e584",
+        "android_client_info": {
+          "package_name": "com.nonstudio.astronames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056668185805-rgifkntbcgc7ftj0r9dsa28dsal822q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nonstudio.astronames",
+            "certificate_hash": "4239f82563fa5dc9b572ffe0cc523c76318234c8"
+          }
+        },
+        {
+          "client_id": "1056668185805-uocululc89qbf2a9mt4vralss6iscc25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nonstudio.astronames",
+            "certificate_hash": "90a2145f5cde94b7f39227299ecc3d4a1ce53da1"
+          }
+        },
+        {
+          "client_id": "1056668185805-ml6u8ao3arb6rl0m4g75gqqsema6dcnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidHRKMFZAkdbbkAtqEgh4bqcTyfATRiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056668185805-ml6u8ao3arb6rl0m4g75gqqsema6dcnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

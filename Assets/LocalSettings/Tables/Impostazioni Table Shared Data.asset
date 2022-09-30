@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Impostazioni Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Impostazioni Table
+  m_TableCollectionNameGuidString: 87778b57a0736b64d87102327fc24cd4
+  m_Entries:
+  - m_Id: 75127590912
+    m_Key: impostazioni_titolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136976797696
+    m_Key: impostazioni_musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211580882944
+    m_Key: impostazioni_suoni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249962958848
+    m_Key: impostazioni_lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320586649600
+    m_Key: impostazioni_timer
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6673153208431149062
+  references:
+    version: 2
+    RefIds:
+    - rid: 6673153208431149062
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1656000639571

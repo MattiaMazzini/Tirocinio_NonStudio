@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Preparazione Partita Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c25c5168dfd8b014cbf5005652d5ac6f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38146412544
+    m_Localized: How many players?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403088609280
+    m_Localized: Insert only unique names
+    m_Metadata:
+      m_Items: []
+  - m_Id: 873429471232
+    m_Localized: 'choose a word for:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1416533118976
+    m_Localized: Type a word
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1617058598912
+    m_Localized: Random
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7895126380544
+    m_Localized: Give the device to
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8476503052288
+    m_Localized: Put the device on your forehead and <b>tap to start</b> the
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912476320141312
+    m_Localized: GAME!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

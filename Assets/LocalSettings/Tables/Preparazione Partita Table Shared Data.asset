@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Preparazione Partita Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Preparazione Partita Table
+  m_TableCollectionNameGuidString: c25c5168dfd8b014cbf5005652d5ac6f
+  m_Entries:
+  - m_Id: 38146412544
+    m_Key: sceltagiocatori_prompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403088609280
+    m_Key: sceltagiocatori_disabledtext
+    m_Metadata:
+      m_Items: []
+  - m_Id: 873429471232
+    m_Key: sceltaparole_prompt1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1416533118976
+    m_Key: sceltaparole_parolacasuale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1617058598912
+    m_Key: sceltaparole_randombutton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7895126380544
+    m_Key: sceltaparolepanel_reminder1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8476503052288
+    m_Key: reminder_prompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912476320141312
+    m_Key: reminder_prompt2
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6673153223287898116
+  references:
+    version: 2
+    RefIds:
+    - rid: 6673153223287898116
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1656061503671

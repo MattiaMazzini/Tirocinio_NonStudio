@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 11283876c9b1cfd45addbf831e3fb1b0
+  m_SerializeEntries:
+  - m_GUID: 29ef139b67a1f4347923754403b68ee4
+    m_Address: Assets/LocalSettings/Tables/StringTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 87778b57a0736b64d87102327fc24cd4
+    m_Address: Assets/LocalSettings/Tables/Impostazioni Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 4588fbce4700e384b8453283493cd19d
+    m_Address: Assets/LocalSettings/Tables/Sudinoi Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: c25c5168dfd8b014cbf5005652d5ac6f
+    m_Address: Assets/LocalSettings/Tables/Preparazione Partita Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: b4177b4de7050ed42bfd705580a2a984
+    m_Address: Assets/LocalSettings/Tables/Partita Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 117f6ca12b2da65428866c665f143196, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 60cd67093b70f8e46b2f3acb9907df55, type: 2}
+    - {fileID: 11400000, guid: 324c0ea109bcb464b8db8f4b39f996cb, type: 2}

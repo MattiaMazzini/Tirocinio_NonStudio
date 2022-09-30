@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Italian (it)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Italian (it)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 76e6fda91acc4df47858c0e9b31ce042
+  m_SerializeEntries:
+  - m_GUID: 90b8acda10c6350488d94521b2a07ef0
+    m_Address: StringTable_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+  - m_GUID: f70bb48914e30204b997b8a80f453049
+    m_Address: Impostazioni Table_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+  - m_GUID: cca57cab683fe6d408001416d32045b6
+    m_Address: Sudinoi Table_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+  - m_GUID: eabdc58d7ee87c246b874db3a1bb662c
+    m_Address: Preparazione Partita Table_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+  - m_GUID: ea2ffcef975600d4c971e47043af4326
+    m_Address: Partita Table_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 117f6ca12b2da65428866c665f143196, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1365fc4b37a8cc4439e7fbaf18323f97, type: 2}
+    - {fileID: 11400000, guid: 84c10e02f20ade24ebf61684024351ea, type: 2}

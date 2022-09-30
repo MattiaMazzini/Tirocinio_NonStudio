@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://nonstudio-astronames-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">1056668185805</string>
+  <string name="google_storage_bucket" translatable="false">nonstudio-astronames.appspot.com</string>
+  <string name="project_id" translatable="false">nonstudio-astronames</string>
+  <string name="google_api_key" translatable="false">AIzaSyDidHRKMFZAkdbbkAtqEgh4bqcTyfATRiY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDidHRKMFZAkdbbkAtqEgh4bqcTyfATRiY</string>
+  <string name="google_app_id" translatable="false">1:1056668185805:android:ce420f91674e926bf6e584</string>
+  <string name="default_android_client_id" translatable="false">1056668185805-rgifkntbcgc7ftj0r9dsa28dsal822q0.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1056668185805-ml6u8ao3arb6rl0m4g75gqqsema6dcnl.apps.googleusercontent.com</string>
+</resources>

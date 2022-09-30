@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Regole.unity
+    guid: 28552321f27be364cbf3e931258cf298
+  - enabled: 1
+    path: Assets/Scenes/Crediti.unity
+    guid: dca1ba440edcb224a9f12f6347801710
+  - enabled: 1
+    path: Assets/Scenes/Impostazioni.unity
+    guid: 89dd51369e4c7104ebcb6e4e492acb60
+  - enabled: 1
+    path: Assets/Scenes/Menu Gioca/Reminder.unity
+    guid: 07702bb31f205734a910e7757ebe00d5
+  - enabled: 1
+    path: Assets/Scenes/Menu Gioca/SceltaParole.unity
+    guid: 5f403c62868ea844581abb6e78a43748
+  - enabled: 1
+    path: Assets/Scenes/Menu Gioca/Partita/Inizio Round.unity
+    guid: 5db470898a856f84c95d32ad56078a73
+  - enabled: 1
+    path: Assets/Scenes/Menu Gioca/Partita/Schermata Giocatore.unity
+    guid: 2ef59248764eace47a68b1e43e40c2e6
+  - enabled: 1
+    path: Assets/Scenes/Menu Gioca/Partita/Schermata Vincitore.unity
+    guid: e96621a9daa99c643bc95d737741bbe1
+  - enabled: 1
+    path: Assets/Scenes/Menu Gioca/Partita/Classifica.unity
+    guid: f40723213012d00439b9ab3b85d88f86
+  - enabled: 1
+    path: Assets/Scenes/Menu Gioca/SceltaGiocatori.unity
+    guid: 1808f6c1e5f91264984a581fa344dedf
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 2b8fa45b39bea714faca4ea7d95708a4, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 650496eb855c16f488e2ec73decb4f66, type: 2}
